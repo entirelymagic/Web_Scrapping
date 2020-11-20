@@ -1,0 +1,3 @@
+[submodule "Scrapping_quotes"]
+	path = Scrapping_quotes
+	url = https://github.com/entirelymagic/Scrapping_quotes.git
